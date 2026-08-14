@@ -55,4 +55,3 @@ An embedded robotics project featuring **Dual-Mode Operation**: Fully autonomous
 ## 👤 Author
 
 - **Developed by:** **Harsh Krishna**
--
