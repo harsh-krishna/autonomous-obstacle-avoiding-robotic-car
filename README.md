@@ -3,7 +3,7 @@
 ![Robotic Car](Robotic Car.jpeg)
 
 <p align="center">
-  <img src="Robotic Car.jpg" alt="Robotic Car" width="600">
+  <img src="Robotic Car.jpeg" alt="Robotic Car" width="600">
 </p>
 An embedded robotics project featuring **Dual-Mode Operation**: Fully autonomous self-driving navigation with ultrasonic obstacle avoidance, combined with real-time smartphone Bluetooth control and emergency crash prevention overrides.
 
