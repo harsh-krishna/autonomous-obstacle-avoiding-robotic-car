@@ -1,4 +1,4 @@
-# Dual-Mode Autonomous & Bluetooth-Controlled Robotic Car🚗🤖
+# Dual-Mode Autonomous & Bluetooth-Controlled Rover🚗🤖
 
 ![Robotic Car](Robotic Car.jpeg)
 
